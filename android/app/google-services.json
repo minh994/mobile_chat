@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "977586964405",
+    "firebase_url": "https://mobilechat-b1c7f-default-rtdb.firebaseio.com",
+    "project_id": "mobilechat-b1c7f",
+    "storage_bucket": "mobilechat-b1c7f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977586964405:android:e9851207689350d780fbfc",
+        "android_client_info": {
+          "package_name": "com.example.mobile_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977586964405-8uo2t543tsakpd834mop2meu4f60r0vl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXHhn_21M13IvNlGpl_YxabBbFVbohcMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977586964405-8uo2t543tsakpd834mop2meu4f60r0vl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "977586964405-bguc0ns3rcr6olqn770b5bfn9r05def5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.newChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
